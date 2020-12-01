@@ -18,3 +18,4 @@ strip docker/bin/dash-cli
 strip docker/bin/dash-tx
 
 docker build --pull -t $DOCKER_IMAGE:$DOCKER_TAG -f docker/Dockerfile docker
+
