@@ -11,16 +11,16 @@ The following are some helpful notes on how to run Qva Coin on your native platf
 
 Unpack the files into a directory and run:
 
-- `bin/dash-qt` (GUI) or
-- `bin/dashd` (headless)
+- `bin/qva-coin-qt` (GUI) or
+- `bin/qva-coin` (headless)
 
 ### Windows
 
-Unpack the files into a directory, and then run dash-qt.exe.
+Unpack the files into a directory, and then run qva-coin-qt.exe.
 
 ### OS X
 
-Drag Dash-Qt to your applications folder, and then run Dash-Qt.
+Drag Qva-coin-Qt to your applications folder, and then run Qva-coin-Qt.
 
 ### Need Help?
 
