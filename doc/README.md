@@ -1,11 +1,11 @@
-Dash Core
-==========
+Qva Coin Core
+=============
 
-This is the official reference wallet for Dash digital currency and comprises the backbone of the Dash peer-to-peer network. You can [download Dash Core](https://www.dash.org/downloads/) or [build it yourself](#building) using the guides below.
+This is the official reference wallet for Qva digital currency and comprises the backbone of the Qva peer-to-peer network. You can [download Qva Coin Core](https://qva-coin.samyca.org/) or [build it yourself](#building) using the guides below.
 
 Running
 ---------------------
-The following are some helpful notes on how to run Dash on your native platform.
+The following are some helpful notes on how to run Qva Coin on your native platform.
 
 ### Unix
 
